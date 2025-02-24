@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @TatianaAll
 - 👀 I’m interested in learning all types of programming languages front and back
-- 🌱 I’m currently learning PHP with the framwork Symphony
+- 🌱 I’m currently learning Java ith the framework Spring
+- 🌱 I learned the PHP with the framework Symfony during my formation
 - 📫 You can reach me at the adress mail tatiana.allery@orange.fr
 
 <!---
