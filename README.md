@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @TatianaAll
 - 👀 I’m interested in learning all types of programming languages front and back
-- 🌱 I'm back to school for an alternance
+- 🌱 I'm back to school for an alternance in MyDigitalSchool Bordeaux, in Bachelor 3
 - Work at DBF autos in Bruges (near Bordeaux)
-- Learn in MyDigitalSchool Bordeaux for a bachelor 3
-- 🌱 I learned the PHP with the framework Symfony during my formation
 - 📫 You can reach me at the adress mail tatiana.allery@orange.fr
 
 
