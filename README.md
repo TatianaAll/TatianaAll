@@ -6,6 +6,10 @@
 - 🌱 I learned the PHP with the framework Symfony during my formation
 - 📫 You can reach me at the adress mail tatiana.allery@orange.fr
 
+
+![Stats GitHub](https://github-readme-stats.vercel.app/api?username=TatianaAll&show_icons=true&theme=tokyonight)  
+![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=TatianaAll&layout=compact&theme=tokyonight)  
+
 <!---
 TatianaAll/TatianaAll is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
