@@ -2,7 +2,7 @@
 |ME|What i do|Where i do that|On what techno ?|
 |---|---|---|---|
 |Tatiana|Dev student|My Digital School Bordeaux in Bachelor 3|learning multiple languages|
-|Tatiana|Work as dev student in IT team|DBF-auto in Bruges (near Bordeaux)|maintain intern website and create features in PHP|
+|Tatiana|Work as dev student in IT team|DBF-autos in Bruges (near Bordeaux)|maintain intern website and create features in PHP|
 
 - 📫 You can reach me at the adress mail tatiana.allery@orange.fr
 
