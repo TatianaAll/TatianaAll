@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @TatianaAll
-- 👀 I’m interested in learning all types of programming languages front and back
-- 🌱 I'm back to school for an alternance in MyDigitalSchool Bordeaux, in Bachelor 3
-- Work at DBF autos in Bruges (near Bordeaux)
+# GitHub profile of ✨Tatiana✨
+|ME|What i do|Where i do that|On what techno ?|
+|---|---|---|---|
+|Tatiana|Dev student|My Digital School Bordeaux in Bachelor 3|learning multiple languages|
+|Tatiana|Work as dev student in IT team|DBF-auto in Bruges (near Bordeaux)|maintain intern website and create features in PHP|
+
 - 📫 You can reach me at the adress mail tatiana.allery@orange.fr
 
-
+## More about my gitHub stats :
 ![Stats GitHub](https://github-readme-stats.vercel.app/api?username=TatianaAll&show_icons=true&theme=tokyonight)  
 ![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=TatianaAll&layout=compact&theme=tokyonight)  
 
