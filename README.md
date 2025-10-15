@@ -1,5 +1,5 @@
 # GitHub profile of ✨Tatiana✨
-|ME|What i do|Where i do that|On what techno ?|
+|What i do|Where i do that|On what techno ?|
 |---|---|---|
 |Dev student|My Digital School Bordeaux in Bachelor 3|learning multiple languages|
 |Work as dev student in IT team|DBF-autos in Bruges (near Bordeaux)|maintain intern website and create features in PHP|
